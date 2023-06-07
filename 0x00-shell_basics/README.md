@@ -24,3 +24,6 @@ Creating a script that create a directory named my_first_directory in the /tmp/ 
 
 ### 7-Betty in my first directory
 Moving the file betty from /tmp/ to /tmp/my_first_directory
+
+### 8- Bye bye Betty
+Delete the file betty in /tmp/my_first_directory
