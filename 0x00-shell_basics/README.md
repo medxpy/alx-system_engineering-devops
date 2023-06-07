@@ -30,3 +30,6 @@ Delete the file betty in /tmp/my_first_directory
 
 ### 9-Bye bye My first directory
 Removing the directory (my_first_directory) that is in the /tmp/ dir
+
+### 10-Back to the future
+A script that change the working directory to the previous one
