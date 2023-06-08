@@ -9,3 +9,6 @@ Print all the groups the current user is part of using command **id -Gn**
 
 ### 3-New owner
 Change the owner of the file *hello* to the user *betty* using command **chown betty hello**
+
+### 4-Empty!
+Creating an empty file *hello* with the help of the command **touch**
