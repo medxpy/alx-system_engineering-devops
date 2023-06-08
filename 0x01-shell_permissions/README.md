@@ -27,3 +27,6 @@ Sets the permission to the file *hello* as follows:
 -Owner: no permission at all
 -Group: no permission at all
 -Other: all the permissions
+
+### 9-John Doe
+Sets the mode of the file *hello* to this: **-rwxr-x-wx**
