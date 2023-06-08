@@ -76,3 +76,6 @@ Create a directory called *my_dir* with permission **751** in the working direct
 ### 13-Change group
 Change the group owner to **school** for the file **hello** using command **chown**
 
+### 14-Owner and group
+Changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
+
