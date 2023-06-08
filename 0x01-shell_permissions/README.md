@@ -70,3 +70,6 @@ drwx--x--x 2 julien julien 4096 Sep 20 14:49 dir2
 julien@ubuntu:/tmp/h$
 ```
 
+### 12-More directories
+Create a directory called *my_dir* with permission **751** in the working directory
+
