@@ -1,3 +1,36 @@
+
+# Hi, I'm Med! 👋
+
+
+## About me
+👩‍💻 I'm currently working to improve myself as a Sofware Engineer
+
+🧠 I'm currently learning Sofware Engineering at ALX AFRICA, and learning web application pentesting from various resources, like Portswigger.
+
+
+💬 Ask me About Python,Javascript,Linux
+
+📫 How to reach me ? Follow me on Twitter 
+
+
+⚡️ Fun fact: New Features, New Bugs
+
+
+## Authors
+
+- Github [@medxpy](https://www.github.com/medxpy)
+
+- Twitter [@medpydev](https://www.twitter.com/medpydev)
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at.m3dh4ck@protonmail.ch
+
+If you find that usefull feel free to give a start <3
+
+
+
 ### 0-current_working_directory
 Script that print the absolute path name of the current working directory
 
