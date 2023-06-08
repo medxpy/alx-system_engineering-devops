@@ -73,3 +73,6 @@ julien@ubuntu:/tmp/h$
 ### 12-More directories
 Create a directory called *my_dir* with permission **751** in the working directory
 
+### 13-Change group
+Change the group owner to **school** for the file **hello** using command **chown**
+
