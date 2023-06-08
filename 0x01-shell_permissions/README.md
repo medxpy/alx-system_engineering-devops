@@ -20,4 +20,10 @@ Adds execute permission to the owner of the file hello, we use **chmod 700 hello
 Adds execute permission to the owner and the group owner, and read permission to other users, to the file hello, we use **chmod 754 hello**, 7 for execute, 5 for read and execute and 4 for read
 
 ### 7-Everybody
-Adds execution permission to the owner, the group owner and the other users, **chmod 751 hell0** 
+Adds execution permission to the owner, the group owner and the other users, **chmod 751 hell0**
+
+### 8-James Bond
+Sets the permission to the file *hello* as follows:
+-Owner: no permission at all
+-Group: no permission at all
+-Other: all the permissions
