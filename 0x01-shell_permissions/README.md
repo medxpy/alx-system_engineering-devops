@@ -30,3 +30,20 @@ Sets the permission to the file *hello* as follows:
 
 ### 9-John Doe
 Sets the mode of the file *hello* to this: **-rwxr-x-wx**
+
+### 10-Look in the mirror
+Set the mode of the file *hello* the same as *olleh* mode.
+```bash
+julien@ubuntu:/tmp/h$ ls -l
+total 8
+-rwxrw-r-- 1 julien julien 42 Sep 20 14:45 10-mirror_permissions
+-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
+-rw-rw-r-- 1 julien julien  0 Sep 20 14:43 olleh
+julien@ubuntu:/tmp/h$ ./10-mirror_permissions 
+julien@ubuntu:/tmp/h$ ls -l
+total 8
+-rwxrw-r-- 1 julien julien 42 Sep 20 14:45 10-mirror_permissions
+-rw-rw-r-- 1 julien julien 23 Sep 20 14:25 hello
+-rw-rw-r-- 1 julien julien  0 Sep 20 14:43 olleh
+julien@ubuntu:/tmp/h$ 
+```
