@@ -17,4 +17,7 @@ Creating an empty file *hello* with the help of the command **touch**
 Adds execute permission to the owner of the file hello, we use **chmod 700 hello**
 
 ### 6-Multiple permissions
-Adds execute permission to the owner and the group owner, and read permission to other users, to the file hello, we use **chmod 754 hello**, 7 for execute, 5 for read and execute and 4 for read 
+Adds execute permission to the owner and the group owner, and read permission to other users, to the file hello, we use **chmod 754 hello**, 7 for execute, 5 for read and execute and 4 for read
+
+### 7-Everybody
+Adds execution permission to the owner, the group owner and the other users, **chmod 751 hell0** 
