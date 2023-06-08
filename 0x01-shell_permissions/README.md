@@ -12,3 +12,6 @@ Change the owner of the file *hello* to the user *betty* using command **chown b
 
 ### 4-Empty!
 Creating an empty file *hello* with the help of the command **touch**
+
+### 5-Execute
+Adds execute permission to the owner of the file hello, we use **chmod 700 hello**
