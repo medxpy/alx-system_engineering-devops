@@ -57,3 +57,6 @@ Script that creates the directories welcome/, welcome/to/ and welcome/to/school 
 
 ### 18-Life is a series of commas, not periods
 Command that lists all the files and directories of the current directory, separated by commas (,)
+
+### 19-File type:School
+A magic file school.mgc that can be used with the command file to detect School data files
